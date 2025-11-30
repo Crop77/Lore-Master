@@ -1,4 +1,4 @@
-### 🧠 `LoreMaster` – `README.md`
+### 🧠 LoreMaster
 
 Genre: Trivia / Quiz • Geek Culture  
 Engine: Unity  
@@ -27,7 +27,7 @@ It’s designed to be playable both casually and competitively, with a light pro
   - Core loop: Answer questions → Gain gold → Unlock higher levels → Earn more gold
   - Higher levels offer harder questions but better rewards
 
-- Game Öodes
+- Game Modes
   - Standard Mode: Single-category quizzes based on selected topic
   - Mixed Category Mode: Combines questions from multiple categories
   - Eternal Mode: Play until you fail, aiming for a high score
