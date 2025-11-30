@@ -53,19 +53,24 @@ It’s designed to be playable both casually and competitively, with a light pro
 ## 📸 Screenshots
 
 Intro Panel
+
 ![Main Menu](LoreMasterScreenshots/LoreMasterSS1.png)
 
 Categories Panel (Color indicated rank earned in given category)
+
 ![Categories](LoreMasterScreenshots/LoreMasterSS6.png)
 
 Quiz Gameplay & Feedback 
+
 ![Quiz](LoreMasterScreenshots/LoreMasterSS3.png)
 ![Quiz 2](LoreMasterScreenshots/LoreMasterSS4.png)
 ![Quiz3](LoreMasterScreenshots/LoreMasterSS2.png)
 
 Quiz on Eternal Mode (Streak instead of score)
+
 ![Quiz4](LoreMasterScreenshots/LoreMasterSS7.png)
 
 Results Panel
+
 ![Results](LoreMasterScreenshots/LoreMasterSS5.png)
 
